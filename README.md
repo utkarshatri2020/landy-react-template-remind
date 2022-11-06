@@ -6,7 +6,7 @@
 ![Landy React Template Language](https://img.shields.io/github/languages/top/Adrinlol/landy-react-template)
 ![Landy React Template TypeScript](https://badgen.net/npm/types/tslib)
 
-## Free React landing page template
+
 
 [Landy][Landy] is an open-source React landing page template written in TypeScript, designed for developers and startups, who want to create a quick and professional landing page for their business or project.
 
